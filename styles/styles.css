@@ -1,0 +1,36 @@
+html {
+    font-size: 14px;
+    font-family: "Roboto Mono", monospace; /*字体修改为roboto mono */
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    background-color:#f9f9fb;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding:0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 450px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
